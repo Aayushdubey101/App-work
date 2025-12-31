@@ -44,4 +44,4 @@ _ Screenshots of calculator UI here_(update soon)
 
 1. Clone the repository  
    ```bash
-   git clone https://github.com/Aayushdubey101/App-work/tree/main/Calculator%20App
+   git clone https://github.com/Aayushdubey101/App-work/tree/main/Calculator_App
